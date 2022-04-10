@@ -1,0 +1,20 @@
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.csprojAssemblyReference.cache
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.FrmVolumNSuperficialCalc.resources
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.Properties.Resources.resources
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.csproj.GenerateResource.cache
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.csproj.CoreCompileInputs.cache
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\bin\Debug\VolumeNSuperficialCalc.exe.config
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\bin\Debug\VolumeNSuperficialCalc.exe
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\bin\Debug\VolumeNSuperficialCalc.pdb
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.exe
+C:\Users\inseon\source\repos\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\bin\Debug\VolumeNSuperficialCalc.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\bin\Debug\VolumeNSuperficialCalc.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\bin\Debug\VolumeNSuperficialCalc.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.FrmVolumNSuperficialCalc.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz02\VolumeNSuperficialCalc\obj\Debug\VolumeNSuperficialCalc.pdb

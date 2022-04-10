@@ -1,0 +1,9 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz06\OutputDayOfMonth\bin\Debug\OutputDayOfMonth.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz06\OutputDayOfMonth\bin\Debug\OutputDayOfMonth.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz06\OutputDayOfMonth\bin\Debug\OutputDayOfMonth.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz06\OutputDayOfMonth\obj\Debug\OutputDayOfMonth.FrmOutputDayOfMonth.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz06\OutputDayOfMonth\obj\Debug\OutputDayOfMonth.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz06\OutputDayOfMonth\obj\Debug\OutputDayOfMonth.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz06\OutputDayOfMonth\obj\Debug\OutputDayOfMonth.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz06\OutputDayOfMonth\obj\Debug\OutputDayOfMonth.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz06\OutputDayOfMonth\obj\Debug\OutputDayOfMonth.pdb

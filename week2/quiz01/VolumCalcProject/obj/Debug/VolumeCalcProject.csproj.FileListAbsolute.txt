@@ -1,0 +1,10 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\bin\Debug\VolumCalcProject.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\bin\Debug\VolumCalcProject.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\bin\Debug\VolumCalcProject.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\obj\Debug\VolumeCalcProject.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\obj\Debug\VolumCalcProject.FrmVolumeCalc.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\obj\Debug\VolumCalcProject.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\obj\Debug\VolumeCalcProject.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\obj\Debug\VolumeCalcProject.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\obj\Debug\VolumCalcProject.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week2\quiz01\VolumCalcProject\obj\Debug\VolumCalcProject.pdb
