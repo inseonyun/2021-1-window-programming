@@ -1,0 +1,10 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\bin\Debug\classExamProject.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\bin\Debug\classExamProject.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\bin\Debug\classExamProject.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\obj\Debug\classExamProject.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\obj\Debug\classExamProject.MainForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\obj\Debug\classExamProject.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\obj\Debug\classExamProject.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\obj\Debug\classExamProject.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\obj\Debug\classExamProject.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_lab\classExam\classExamProject\obj\Debug\classExamProject.pdb

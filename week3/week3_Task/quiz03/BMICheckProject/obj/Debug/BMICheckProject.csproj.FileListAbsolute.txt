@@ -1,0 +1,10 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\bin\Debug\BMICheckProject.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\bin\Debug\BMICheckProject.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\bin\Debug\BMICheckProject.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\obj\Debug\BMICheckProject.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\obj\Debug\BMICheckProject.BMICheck.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\obj\Debug\BMICheckProject.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\obj\Debug\BMICheckProject.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\obj\Debug\BMICheckProject.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\obj\Debug\BMICheckProject.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week3_Task\quiz03\BMICheckProject\obj\Debug\BMICheckProject.pdb
