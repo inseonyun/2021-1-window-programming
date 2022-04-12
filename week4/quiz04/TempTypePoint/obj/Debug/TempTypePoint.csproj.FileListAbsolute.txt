@@ -1,0 +1,10 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\bin\Debug\TempTypePoint.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\bin\Debug\TempTypePoint.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\bin\Debug\TempTypePoint.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\obj\Debug\TempTypePoint.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\obj\Debug\TempTypePoint.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\obj\Debug\TempTypePoint.TempTypePointForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\obj\Debug\TempTypePoint.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\obj\Debug\TempTypePoint.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\obj\Debug\TempTypePoint.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz04\TempTypePoint\obj\Debug\TempTypePoint.pdb

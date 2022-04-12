@@ -1,0 +1,10 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\bin\Debug\AddFraction.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\bin\Debug\AddFraction.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\bin\Debug\AddFraction.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\obj\Debug\AddFraction.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\obj\Debug\AddFraction.AddFractopn.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\obj\Debug\AddFraction.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\obj\Debug\AddFraction.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\obj\Debug\AddFraction.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\obj\Debug\AddFraction.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week4_Task\quiz01\AddFraction\obj\Debug\AddFraction.pdb
