@@ -1,0 +1,10 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\bin\Debug\BookInfoWindowApp.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\bin\Debug\BookInfoWindowApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\bin\Debug\BookInfoWindowApp.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.BookInfoForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\BookInfoWindowApp\obj\Debug\BookInfoWindowApp.pdb

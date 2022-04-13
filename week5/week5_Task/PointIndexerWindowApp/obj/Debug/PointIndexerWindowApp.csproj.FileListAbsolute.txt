@@ -1,0 +1,10 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\bin\Debug\PointIndexerWindowApp.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\bin\Debug\PointIndexerWindowApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\bin\Debug\PointIndexerWindowApp.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.PointIndexerForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week5_Task\week5_Task\PointIndexerWindowApp\obj\Debug\PointIndexerWindowApp.pdb
