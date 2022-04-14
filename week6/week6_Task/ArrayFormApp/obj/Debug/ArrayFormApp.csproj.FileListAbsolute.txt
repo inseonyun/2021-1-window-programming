@@ -1,0 +1,9 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week6_Task\week6_Task\ArrayFormApp\bin\Debug\ArrayFormApp.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week6_Task\week6_Task\ArrayFormApp\bin\Debug\ArrayFormApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week6_Task\week6_Task\ArrayFormApp\bin\Debug\ArrayFormApp.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week6_Task\week6_Task\ArrayFormApp\obj\Debug\ArrayFormApp.ArrayForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week6_Task\week6_Task\ArrayFormApp\obj\Debug\ArrayFormApp.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week6_Task\week6_Task\ArrayFormApp\obj\Debug\ArrayFormApp.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week6_Task\week6_Task\ArrayFormApp\obj\Debug\ArrayFormApp.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week6_Task\week6_Task\ArrayFormApp\obj\Debug\ArrayFormApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week6_Task\week6_Task\ArrayFormApp\obj\Debug\ArrayFormApp.pdb
