@@ -1,0 +1,9 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week9_Task\week9\LocationAndFontApp\bin\Debug\LocationAndFontApp.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week9_Task\week9\LocationAndFontApp\bin\Debug\LocationAndFontApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week9_Task\week9\LocationAndFontApp\bin\Debug\LocationAndFontApp.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week9_Task\week9\LocationAndFontApp\obj\Debug\LocationAndFontApp.MainForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week9_Task\week9\LocationAndFontApp\obj\Debug\LocationAndFontApp.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week9_Task\week9\LocationAndFontApp\obj\Debug\LocationAndFontApp.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week9_Task\week9\LocationAndFontApp\obj\Debug\LocationAndFontApp.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week9_Task\week9\LocationAndFontApp\obj\Debug\LocationAndFontApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week9_Task\week9\LocationAndFontApp\obj\Debug\LocationAndFontApp.pdb
