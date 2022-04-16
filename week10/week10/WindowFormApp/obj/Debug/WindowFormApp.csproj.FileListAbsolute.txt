@@ -1,0 +1,11 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\bin\Debug\WindowFormApp.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\bin\Debug\WindowFormApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\bin\Debug\WindowFormApp.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\obj\Debug\WindowFormApp.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\obj\Debug\WindowFormApp.MainForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\obj\Debug\WindowFormApp.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\obj\Debug\WindowFormApp.SubForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\obj\Debug\WindowFormApp.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\obj\Debug\WindowFormApp.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\obj\Debug\WindowFormApp.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week10_Task\week10\WindowFormApp\obj\Debug\WindowFormApp.pdb
