@@ -1,0 +1,10 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\bin\Debug\ToolStripProject.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\bin\Debug\ToolStripProject.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\bin\Debug\ToolStripProject.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\obj\Debug\ToolStripProject.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\obj\Debug\ToolStripProject.MainForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\obj\Debug\ToolStripProject.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\obj\Debug\ToolStripProject.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\obj\Debug\ToolStripProject.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\obj\Debug\ToolStripProject.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12\week12\ToolStripProject\obj\Debug\ToolStripProject.pdb

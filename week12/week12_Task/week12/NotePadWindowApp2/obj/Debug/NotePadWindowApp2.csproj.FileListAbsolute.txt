@@ -1,0 +1,10 @@
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\bin\Debug\NotePadWindowApp2.exe.config
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\bin\Debug\NotePadWindowApp2.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\bin\Debug\NotePadWindowApp2.pdb
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\obj\Debug\NotePadWindowApp2.csprojAssemblyReference.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\obj\Debug\NotePadWindowApp2.NotePadForm.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\obj\Debug\NotePadWindowApp2.Properties.Resources.resources
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\obj\Debug\NotePadWindowApp2.csproj.GenerateResource.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\obj\Debug\NotePadWindowApp2.csproj.CoreCompileInputs.cache
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\obj\Debug\NotePadWindowApp2.exe
+D:\대학생활\2021년도 (3학년)\2021-1\윈도우프로그래밍\source\week12_Task\week12\NotePadWindowApp2\obj\Debug\NotePadWindowApp2.pdb
